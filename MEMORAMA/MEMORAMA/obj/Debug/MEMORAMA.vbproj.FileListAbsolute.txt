@@ -1,0 +1,17 @@
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\bin\Debug\MEMORAMA.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\bin\Debug\MEMORAMA.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\bin\Debug\MEMORAMA.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\bin\Debug\Interop.WMPLib.dll
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\bin\Debug\Interop.WMPNSSCI.dll
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\Interop.WMPLib.dll
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MEMORAMA\MEMORAMA\obj\Debug\MEMORAMA.vbproj.ResolveComReference.cache
