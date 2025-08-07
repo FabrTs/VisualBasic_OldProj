@@ -1,0 +1,20 @@
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\bin\Debug\CONTACTOS.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\bin\Debug\CONTACTOS.pdb
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\bin\Debug\CONTACTOS.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\CONTACTOS.Form1.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\CONTACTOS.Resources.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\CONTACTOS.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\CONTACTOS.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\CONTACTOS.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONTACTOS\obj\Debug\CONTACTOS.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\CONTACTOS.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\CONTACTOS.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\CONTACTOS.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\bin\Debug\CONTACTOS.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\bin\Debug\CONTACTOS.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\bin\Debug\CONTACTOS.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\CONTACTOS.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\CONTACTOS.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONTACTOS\CONTACTOS\obj\Debug\CONTACTOS.vbproj.GenerateResource.Cache
