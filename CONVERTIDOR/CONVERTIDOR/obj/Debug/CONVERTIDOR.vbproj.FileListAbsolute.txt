@@ -1,0 +1,20 @@
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\bin\Debug\CONVERTIDOR.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\bin\Debug\CONVERTIDOR.pdb
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\bin\Debug\CONVERTIDOR.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\CONVERTIDOR.Form1.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\CONVERTIDOR.Resources.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\CONVERTIDOR.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\CONVERTIDOR.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\CONVERTIDOR.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CONVERTIDOR\obj\Debug\CONVERTIDOR.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\CONVERTIDOR.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\CONVERTIDOR.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\CONVERTIDOR.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\bin\Debug\CONVERTIDOR.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\bin\Debug\CONVERTIDOR.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\bin\Debug\CONVERTIDOR.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\CONVERTIDOR.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\CONVERTIDOR.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CONVERTIDOR\CONVERTIDOR\obj\Debug\CONVERTIDOR.vbproj.GenerateResource.Cache
