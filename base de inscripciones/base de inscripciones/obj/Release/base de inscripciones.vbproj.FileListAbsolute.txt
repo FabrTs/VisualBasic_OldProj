@@ -1,0 +1,10 @@
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\bin\Release\base de inscripciones.exe
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\bin\Release\base de inscripciones.pdb
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\bin\Release\base de inscripciones.xml
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\base_de_inscripciones.Form1.resources
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\base_de_inscripciones.Resources.resources
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\base de inscripciones.vbproj.GenerateResource.Cache
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\base de inscripciones.exe
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\base de inscripciones.xml
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de inscripciones\base de inscripciones\obj\Release\base de inscripciones.pdb
