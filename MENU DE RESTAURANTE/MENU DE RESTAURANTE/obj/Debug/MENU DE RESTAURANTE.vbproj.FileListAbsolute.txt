@@ -1,0 +1,20 @@
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\bin\Debug\MENU DE RESTAURANTE.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\bin\Debug\MENU DE RESTAURANTE.pdb
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\bin\Debug\MENU DE RESTAURANTE.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\MENU_DE_RESTAURANTE.Form1.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\MENU_DE_RESTAURANTE.Resources.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\bin\Debug\MENU DE RESTAURANTE.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\bin\Debug\MENU DE RESTAURANTE.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\bin\Debug\MENU DE RESTAURANTE.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\MENU_DE_RESTAURANTE.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\MENU_DE_RESTAURANTE.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\MENU DE RESTAURANTE\MENU DE RESTAURANTE\obj\Debug\MENU DE RESTAURANTE.vbproj.GenerateResource.Cache
