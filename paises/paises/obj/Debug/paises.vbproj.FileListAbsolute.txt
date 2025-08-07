@@ -1,0 +1,20 @@
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\bin\Debug\paises.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\bin\Debug\paises.pdb
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\bin\Debug\paises.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\paises.Form1.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\paises.Resources.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\paises.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\paises.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\paises.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\paises\obj\Debug\paises.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\paises.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\paises.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\paises.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\bin\Debug\paises.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\bin\Debug\paises.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\bin\Debug\paises.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\paises.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\paises.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\paises\paises\obj\Debug\paises.vbproj.GenerateResource.Cache
