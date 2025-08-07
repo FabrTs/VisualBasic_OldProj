@@ -1,0 +1,20 @@
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\bin\Debug\CUADRO MAGICO.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\bin\Debug\CUADRO MAGICO.pdb
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\bin\Debug\CUADRO MAGICO.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\CUADRO_MAGICO.Form1.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\CUADRO_MAGICO.Resources.resources
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.exe
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.xml
+C:\Users\wicho_000\AppData\Local\Temporary Projects\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\bin\Debug\CUADRO MAGICO.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\bin\Debug\CUADRO MAGICO.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\bin\Debug\CUADRO MAGICO.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\CUADRO_MAGICO.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\CUADRO_MAGICO.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\CUADRO MAGICO\CUADRO MAGICO\obj\Debug\CUADRO MAGICO.vbproj.GenerateResource.Cache
