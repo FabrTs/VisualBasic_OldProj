@@ -1,0 +1,10 @@
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\bin\Debug\bases de datos.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\bin\Debug\bases de datos.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\bin\Debug\bases de datos.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\bases_de_datos.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\bases_de_datos.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\bases de datos.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\bases de datos.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\bases de datos.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\bases de datos\bases de datos\obj\Debug\bases de datos.pdb
