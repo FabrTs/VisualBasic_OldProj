@@ -1,0 +1,13 @@
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\bin\x86\Debug\base de libros.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\bin\x86\Debug\base de libros.pdb
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\bin\x86\Debug\base de libros.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base_de_libros.Form1.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base_de_libros.Resources.resources
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.vbproj.GenerateResource.Cache
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.exe
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.xml
+C:\Users\wicho_000\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.pdb
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.exe
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.xml
+C:\Users\Luis Eduardo Arenas\Desktop\PROYECTOS DE VISUAL\base de libros\base de libros\obj\x86\Debug\base de libros.pdb
